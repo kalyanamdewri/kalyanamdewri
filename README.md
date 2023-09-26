@@ -1,6 +1,6 @@
 ### 
 
-<h4 align="center"><samp> Hello there 👋, welcome to my Github! I'm an aspiring tech mogul, part-time junior developer, and AI enthusiast 🤖. Exploring the realms of Artificial Intelligence and Neuroscience 🔬 </samp></h4>
+<h4 align="center" style="color:white;"><samp> Hello there 👋, welcome to my Github! I'm an aspiring tech mogul, part-time junior developer, and AI enthusiast 🤖. Exploring the realms of Artificial Intelligence and Neuroscience 🔬 </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/9fSlTJX91jWcvDvDsK/giphy.gif">
