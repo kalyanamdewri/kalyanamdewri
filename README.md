@@ -1,6 +1,6 @@
 ### 
 
-<h4 align="center" style="color:white;"><samp> Hello there 👋, welcome to my Github! I'm an aspiring tech mogul, part-time junior developer, and AI enthusiast 🤖. Exploring the realms of Artificial Intelligence and Neuroscience 🔬 </samp></h4>
+<h3 align="center" style="color:white;"><samp> Hello there 👋, welcome to my Github! I'm an aspiring tech mogul, part-time junior developer, and AI enthusiast 🤖. Exploring the realms of Artificial Intelligence and Neuroscience 🔬 </samp></h3>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/9fSlTJX91jWcvDvDsK/giphy.gif">
@@ -8,9 +8,9 @@
 
 
 <p align="center">
-  <a href= "https://dev.to/YourUsername"><img src="https://img.icons8.com/windows/32/ffffff/dev.png"/></a>
-  <a href= "https://twitter.com/YourTwitterHandle"><img src="https://img.icons8.com/material-outlined/32/ffffff/twitter.png"/></a>
-  <a href= "https://ko-fi.com/YourKoFiAccount"><img src="https://img.icons8.com/pastel-glyph/32/ffffff/like--v1.png"/></a>
+  <a href= "https://dev.to/kalyanamdewri"><img src="https://img.icons8.com/windows/32/ffffff/dev.png"/></a>
+  <a href= "https://twitter.com/kalyanamdewri"><img src="https://img.icons8.com/material-outlined/32/ffffff/twitter.png"/></a>
+  <a href= "https://ko-fi.com/kalyanamdewri"><img src="https://img.icons8.com/pastel-glyph/32/ffffff/like--v1.png"/></a>
 </p>
 
 <p align="center"><samp>
