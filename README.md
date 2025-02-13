@@ -8,8 +8,11 @@ Exploring the realms of Artificial Intelligence and Neuroscience 🔬
 </samp></h3>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/9fSlTJX91jWcvDvDsK/giphy.gif">
+  <a href="https://giphy.com/gifs/loop-space-laser-9fSlTJX91jWcvDvDsK">
+    <img src="https://media.giphy.com/media/9fSlTJX91jWcvDvDsK/giphy.gif" width="250">
+  </a>
 </p>
+
 
 
 <p align="center">
