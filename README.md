@@ -1,3 +1,6 @@
+###
+
+
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #00cfff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   <samp>
     Hello there 👋, welcome to my GitHub! I'm an aspiring tech mogul, part-time junior developer, and AI enthusiast 🤖. Exploring the realms of Artificial Intelligence and Neuroscience 🔬
@@ -5,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBwOHozMnQxbWEzcWJnMnB4NDE1b25nNTdzcXV2NTUxYXNxMW15aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fSlTJX91jWcvDvDsK/giphy.gif" alt="Tech Vibes Animation">
+  <img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBwOHozMnQxbWEzcWJnMnB4NDE1b25nNTdzcXV2NTUxYXNxMW15aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fSlTJX91jWcvDvDsK/giphy.gif" alt="Tech Vibes Animation">
 </p>
 
 <p align="center">
