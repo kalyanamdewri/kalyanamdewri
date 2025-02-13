@@ -4,10 +4,9 @@
   </samp>
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img width="250" src="https://media.giphy.com/media/9fSlTJX91jWcvDvDsK/giphy.gif" alt="Welcome Animation">
+<p align="center">
   <img width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBwOHozMnQxbWEzcWJnMnB4NDE1b25nNTdzcXV2NTUxYXNxMW15aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fSlTJX91jWcvDvDsK/giphy.gif" alt="Tech Vibes Animation">
-</div>
+</p>
 
 <p align="center">
   <a href="https://dev.to/kalyanamdewri" target="_blank">
