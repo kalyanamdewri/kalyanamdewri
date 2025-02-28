@@ -3,7 +3,7 @@
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #00cfff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   <samp>
-    Hello there, welcome to my GitHub! feel the ghosts of past projects, past obsession, part-time junior developer, and AI enthusiast. Exploring the realms of Artificial Intelligence and Neuroscience
+    Hello there, welcome to my GitHub! feel the ghosts of past projects and past obsessions. Exploring the realms of Artificial Intelligence and Neuroscience
   </samp>
 </h3>
 
